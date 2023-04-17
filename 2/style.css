@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-color: gainsboro;
+}
+
+.container {
+    margin: 20px;
+}
+
+.image {
+    height: 200px;
+}
+
+.link-red {
+    color: red;
+    font-size: 24px;
+}
+
+.image-wrapper, .link-wrapper, .text-wrapper {
+    width: 300px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid red;
+    border-radius: 10px;
+}

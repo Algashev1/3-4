@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-image: url("images/1.jpeg");
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: 20px;
+}
+
+.text {
+    color: white;
+    font-size: 36px;
+}

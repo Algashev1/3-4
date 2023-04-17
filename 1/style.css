@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: gainsboro;
+}
+
+.container {
+    margin: 20px;
+}
+
+.text {
+    color: blue;
+}
